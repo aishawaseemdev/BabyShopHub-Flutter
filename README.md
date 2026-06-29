@@ -16,5 +16,9 @@ Frontend: Flutter (Dart)
 
 Backend: Firebase (Firestore)
 
+### 📱 Test the App
+You can download and test the APK file on your Android device:
+[Download BabyShopHub APK](https://drive.google.com/file/d/17-LmU6_AZGCwLHIevF2CctKVoqmFST6F/view?usp=sharing)
+
 Project Status
 Completed as a semester project for Aptech Computer Education NN2.
